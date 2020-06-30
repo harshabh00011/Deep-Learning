@@ -1,2 +1,2 @@
 # Deep-Learning
-Face Recognition with OpenCV
+Face Detection with OpenCV
